@@ -1,0 +1,14 @@
+.edit-post {
+    width: 1000px;
+    margin: 20px auto 20px;
+    padding: 10px 15px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+}
+.edit-post h3 {
+    text-align: center;
+}
+button {
+    cursor: pointer;
+}
